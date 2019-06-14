@@ -1,0 +1,76 @@
+,neighbourhood_group,neighbourhood,
+0,Ciutat Vella,el Raval,1
+1,Ciutat Vella,el Barri Gòtic,1
+2,Ciutat Vella,la Barceloneta,1
+3,Ciutat Vella,"Sant Pere, Santa Caterina i la Ribera",1
+4,Eixample,la Dreta de l'Eixample,2
+5,Eixample,l'Antiga Esquerra de l'Eixample,2
+6,Eixample,la Nova Esquerra de l'Eixample,2
+7,Eixample,el Fort Pienc,2
+8,Eixample,la Sagrada Família,2
+9,Eixample,Sant Antoni,2
+10,Gràcia,la Salut,3
+11,Gràcia,el Coll,3
+12,Gràcia,Vallcarca i els Penitents,3
+13,Gràcia,la Vila de Gràcia,3
+14,Gràcia,el Camp d'en Grassot i Gràcia Nova,3
+15,Horta-Guinardó,el Baix Guinardó,4
+16,Horta-Guinardó,Can Baró,4
+17,Horta-Guinardó,el Guinardó,4
+18,Horta-Guinardó,la Font d'en Fargues,4
+19,Horta-Guinardó,la Teixonera,4
+20,Horta-Guinardó,Sant Genís dels Agudells,4
+21,Horta-Guinardó,Montbau,4
+22,Horta-Guinardó,el Carmel,4
+23,Horta-Guinardó,la Vall d'Hebron,4
+24,Horta-Guinardó,la Clota,4
+25,Horta-Guinardó,Horta,4
+26,Les Corts,les Corts,5
+27,Les Corts,la Maternitat i Sant Ramon,5
+28,Les Corts,Pedralbes,5
+29,Nou Barris,Can Peguera,6
+30,Nou Barris,Vilapicina i la Torre Llobeta,6
+31,Nou Barris,Porta,6
+32,Nou Barris,el Turó de la Peira,6
+33,Nou Barris,la Guineueta,6
+34,Nou Barris,Canyelles,6
+35,Nou Barris,les Roquetes,6
+36,Nou Barris,Verdun,6
+37,Nou Barris,la Prosperitat,6
+38,Nou Barris,la Trinitat Nova,6
+39,Nou Barris,Torre Baró,6
+40,Nou Barris,Ciutat Meridiana,6
+41,Nou Barris,Vallbona,6
+42,Sant Andreu,Baró de Viver,7
+43,Sant Andreu,el Bon Pastor,7
+44,Sant Andreu,la Trinitat Vella,7
+45,Sant Andreu,Sant Andreu,7
+46,Sant Andreu,la Sagrera,7
+47,Sant Andreu,el Congrés i els Indians,7
+48,Sant Andreu,Navas,7
+49,Sant Martí,el Clot,8
+50,Sant Martí,el Parc i la Llacuna del Poblenou,8
+51,Sant Martí,la Vila Olímpica del Poblenou,8
+52,Sant Martí,el Poblenou,8
+53,Sant Martí,el Camp de l'Arpa del Clot,8
+54,Sant Martí,Diagonal Mar i el Front Marítim del Poblenou,8
+55,Sant Martí,el Besòs i el Maresme,8
+56,Sant Martí,Provençals del Poblenou,8
+57,Sant Martí,Sant Martí de Provençals,8
+58,Sant Martí,la Verneda i la Pau,8
+59,Sants-Montjuïc,el Poble Sec,9
+60,Sants-Montjuïc,la Marina de Port,9
+61,Sants-Montjuïc,la Marina del Prat Vermell,9
+62,Sants-Montjuïc,la Font de la Guatlla,9
+63,Sants-Montjuïc,Hostafrancs,9
+64,Sants-Montjuïc,la Bordeta,9
+65,Sants-Montjuïc,Sants - Badal,9
+66,Sants-Montjuïc,Sants,9
+67,Sarrià-Sant Gervasi,"Vallvidrera, el Tibidabo i les Planes",10
+68,Sarrià-Sant Gervasi,Sarrià,10
+69,Sarrià-Sant Gervasi,les Tres Torres,10
+70,Sarrià-Sant Gervasi,Sant Gervasi - Galvany,10
+71,Sarrià-Sant Gervasi,Sant Gervasi - la Bonanova,10
+72,Sarrià-Sant Gervasi,el Putxet i el Farró,10
+73,Sarrià-Sant Gervasi,"Vallvidrera, el Tibidabo i les Planes",10
+74,Sarrià-Sant Gervasi,"Vallvidrera, el Tibidabo i les Planes",10
